@@ -1,20 +1,25 @@
-# smart-healthcare-dashboard
-A full- stack healthcare data dashboard showcasing patient insights using Python, Power BI, and MongoDB. Includes interactive visuals and SEO - optimized front-end.
+# 🏥 Smart Healthcare Dashboard
 
-# Features
-  Interactive Power Bi visualizations
-  Cleaned health data using Python(Pandas, Matplotlib)
-  NoSQL integration with MongoDB
-  Responsive front-end interface
-  SEO basics implemented
-  Basics Flask backend for JSON/API structure
+A data-driven healthcare dashboard built using **Python, MongoDB (NoSQL), Power BI, HTML, CSS, and JavaScript**.  
+This project provides real-time analytics and visualization to support better decision-making in healthcare.
 
-# Tech Skills
-Technology              Role
-HTML,CSS,JS             Front-end(UI)
-Python(Flask)           Backend logic + Data Handlin
-Power Bi                Dshboard + Visualizations
-SEO Meta Tags           Optimization
+---
 
+## 🚀 Features
+- Patient health records stored using **MongoDB**
+- Interactive dashboards with **Power BI**
+- Backend built with **Python Flask**
+- Responsive frontend using **HTML, CSS, JS**
+- Basic SEO implemented for better visibility
+- Data visualization for health trends
+
+---
+
+## 🛠️ Tech Stack
+- **Python** (Flask, Pandas, etc.)
+- **MongoDB** (NoSQL database)
+- **Power BI** (Interactive reports)
+- **HTML, CSS, JavaScript** (Frontend)
+- **SEO** (Basic on-page SEO for dashboard)
 
 

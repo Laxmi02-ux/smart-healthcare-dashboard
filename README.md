@@ -1,9 +1,13 @@
 # 🏥 Smart Healthcare Dashboard
 
-A data-driven healthcare dashboard built using **Python, MongoDB (NoSQL), Power BI, HTML, CSS, and JavaScript**.  
-This project provides real-time analytics and visualization to support better decision-making in healthcare.
+A full-stack healthcare data dashboard showcasing patient insights and analtics.
+Built with **Python, Power BI, MongoDB, HTML,
+CSS,Javascript** and optimized with SEO
 
 ---
+# Project Preview
+![Dashboard Screeshot]
+(healthcare_dashboard.png)
 
 ## 🚀 Features
 - Patient health records stored using **MongoDB**
